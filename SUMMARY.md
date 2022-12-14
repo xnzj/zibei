@@ -1,5 +1,4 @@
 # Table of contents
 
-## 概念
-
-* [自卑](README.md)
+* [相关概念](README.md)
+  * [自卑](xiang-guan-gai-nian/zi-bei.md)
